@@ -1,0 +1,6 @@
+{
+  "name": "Student intervention",
+  "tagline": "Build a Student Intervention System",
+  "body": "### About\r\nThis project is part of the Udacity Machine Learning Engineer Nanodegree (https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009).\r\n\r\n### Project Summary\r\nHelped a local school district to identify students who need intervention before they drop out of school using supervised learning techniques and python.\r\n\r\n### Steps involved\r\n- explored and prepare the data\r\n- trained and evaluate 3 models\r\n- chose the best model",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
